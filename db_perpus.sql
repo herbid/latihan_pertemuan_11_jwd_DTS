@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 18 Agu 2021 pada 18.08
+-- Waktu pembuatan: 18 Agu 2021 pada 18.25
 -- Versi server: 10.1.30-MariaDB
 -- Versi PHP: 7.2.2
 
@@ -62,14 +62,14 @@ CREATE TABLE `tbanggota` (
 --
 
 INSERT INTO `tbanggota` (`id_anggota`, `nama`, `jenis_kelamin`, `alamat`, `status`, `gambar`) VALUES
-('34WER', 'dads', 'L', ' dad', 'Tidak Meminjam', '34WERWFD.png'),
-('dad', 'tonass3dd3', 'L', ' dad', 'Tidak Meminjam', 'dad.png'),
-('daw', 'ewaea', 'P', ' wedae', 'Tidak Meminjam', 'daw.png'),
-('ds', 'aaaaaaaa', 'L', ' dasda', 'Tidak Meminjam', 'ds.png'),
-('dsada', 'adds', 'L', ' dads', 'Tidak Meminjam', 'dsadasd4353.png'),
-('dsas', 'dsas', 'L', ' dsad', 'Tidak Meminjam', 'dsas.png'),
-('qswqw', 'wqwq', 'L', ' qwqwq', 'Tidak Meminjam', 'qswqw.png'),
-('sas43', 'aaaaaaaa', 'P', ' sas', 'Tidak Meminjam', 'sas4342.png');
+('dg12', 'dedi', 'L', ' dad', 'Tidak Meminjam', '34WERWFD.png'),
+('dg33', 'meli', 'P', ' wedae', 'Tidak Meminjam', 'daw.png'),
+('dg44', 'pukon', 'P', 'kijang', 'Tidak Meminjam', 'sas4342.png'),
+('dg45', 'santo', 'L', ' dad', 'Tidak Meminjam', 'dad.png'),
+('dg55', 'rahman', 'L', ' dasda', 'Tidak Meminjam', 'ds.png'),
+('dg554', 'rini', 'L', 'pinang', 'Tidak Meminjam', 'qswqw.png'),
+('dg66', 'jumanto', 'L', 'kaliurang', 'Tidak Meminjam', 'dsas.png'),
+('dg67', 'ali', 'L', 'nagoya', 'Tidak Meminjam', 'dsadasd4353.png');
 
 --
 -- Indexes for dumped tables
